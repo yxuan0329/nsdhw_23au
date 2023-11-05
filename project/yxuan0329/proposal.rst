@@ -2,6 +2,7 @@
 R-Tree Spatial Search Engine
 =================
 
+A project that implement R-tree libary for spatial searching.
 
 ..   You are encouraged to use this plain-text `reStructuredText
 ..   <https://docutils.sourceforge.io/rst.html>`__ format.  :download:`Download
@@ -24,6 +25,8 @@ R-tree is a tree structure designed for efficient spatial data access. It has
 been widely used in real-world geographic searching because of its exceptional 
 searching performance. In this project, we aim to serve a R-tree library to 
 provide an efficient search for end-users. 
+
+GitHub Repository: https://github.com/yxuan0329/R-tree-Search-Engine
 
 
 Problem to Solve
@@ -146,7 +149,12 @@ Schedule
 .. development of the project takes 8 weeks:
 
 * Planning phase (6 weeks from mm/dd to mm/dd):
-Week 1 (10/30-11/055)
+
+Week 0 (10/03-10/29)
+---------
+- Planning the project proposal
+
+Week 1 (10/30-11/05)
 ---------
 - Survey some reference about the data structure and implementation
 - Survey some existing R-tree paper
@@ -189,3 +197,4 @@ References
 - https://en.wikipedia.org/wiki/R-tree
 - https://timecenter.cs.aau.dk/wp-content/uploads/2022/12/TR-45.pdf
 - https://link.springer.com/referenceworkentry/10.1007/978-3-319-23519-6_1151-2
+- https://blog.mapbox.com/a-dive-into-spatial-search-algorithms-ebd0c5e39d2a
